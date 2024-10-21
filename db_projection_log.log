@@ -1,0 +1,8 @@
+2024-10-21 14:07:06 - INFO - Starting the script...
+2024-10-21 14:07:06 - INFO - Logging to file: db_projection_log.log
+2024-10-21 14:07:06 - INFO - Setting workspace to: C:\Coding_Projects\SpatialReferenceUpdate\connections\SQLServer-gis-501sql2016-WinchesterCT(gis).sde
+2024-10-21 14:08:37 - INFO - Successfully connected to the geodatabase.
+2024-10-21 14:08:37 - INFO - Retrieving feature classes from feature dataset: WL_Winchester.SDE.INTERNAL_WGS1984
+2024-10-21 14:10:38 - WARNING - No feature classes found in the dataset: WL_Winchester.SDE.INTERNAL_WGS1984
+2024-10-21 14:10:38 - WARNING - No feature classes to project.
+2024-10-21 14:10:38 - INFO - Script completed.
