@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/SpatialReferenceAutomation.iml" filepath="$PROJECT_DIR$/.idea/SpatialReferenceAutomation.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/scripts.iml" filepath="$PROJECT_DIR$/.idea/scripts.iml" />
+>>>>>>> 3a27554d90a73726f6295f76375c0b11643601d1
     </modules>
   </component>
 </project>
